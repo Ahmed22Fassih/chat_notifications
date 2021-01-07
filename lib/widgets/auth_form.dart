@@ -5,6 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class AuthForm extends StatefulWidget {
+  // function to sign up to user
   final void Function(String email, String password, String username,
       File image, bool isLogin, BuildContext ctx) submitFn;
   final bool isLoading;
