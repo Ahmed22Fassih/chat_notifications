@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988926859407",
+    "firebase_url": "https://chat-notification-45e58.firebaseio.com",
+    "project_id": "chat-notification-45e58",
+    "storage_bucket": "chat-notification-45e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988926859407:android:77814bc9a379d2a26bf8fa",
+        "android_client_info": {
+          "package_name": "com.example.chat_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988926859407-5e71u6h9nld6uovi36dnsd8r96nj9rp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcoCLnL4g0ftkeACOUg3346XbiRC1T_po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988926859407-5e71u6h9nld6uovi36dnsd8r96nj9rp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
